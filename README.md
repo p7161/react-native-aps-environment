@@ -8,9 +8,9 @@ Tiny cross-platform React Native module that exposes the iOS `aps-environment` e
 
 ```bash
 # Add to your app, pointing to YOUR Git URL
-npm i git+https://github.com/you/react-native-aps-environment.git
+npm i git+https://github.com/p7161/react-native-aps-environment.git
 # or
-yarn add git+https://github.com/you/react-native-aps-environment.git
+yarn add git+https://github.com/p7161/react-native-aps-environment.git
 
 # iOS pods
 cd ios && pod install && cd -
