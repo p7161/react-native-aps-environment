@@ -4,11 +4,12 @@
     "declarationDir": "lib/typescript",
     "outDir": "lib/commonjs",
     "target": "ES2019",
-    "module": "CommonJS",
-    "moduleResolution": "Node",
+    "module": "Node16",
+    "moduleResolution": "Node16",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
+    "noEmitOnError": true,
     "forceConsistentCasingInFileNames": true
   },
   "include": ["src"]
